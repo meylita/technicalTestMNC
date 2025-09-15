@@ -15,6 +15,7 @@ A simple React app to display weather information using the [OpenWeather API](ht
 
 1. Clone the repository
 git clone (https://github.com/meylita/technicalTestMNC.git)
+
 cd test-code
 
 2. Install dependencies
