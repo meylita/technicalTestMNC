@@ -13,13 +13,11 @@ A simple React app to display weather information using the [OpenWeather API](ht
 
 ## 📦 Installation
 
-1. **Clone the repository**
-
-```bash
+1. Clone the repository
 git clone (https://github.com/meylita/technicalTestMNC.git)
 cd test-code
 
-2. **Install dependencies**
+2. Install dependencies
 npm install
 
 3. Run the project
