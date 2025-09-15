@@ -2,7 +2,7 @@
 
 # Weather App 🌤️
 
-A simple React app to display weather information using the [OpenWeather API](https://api.openweathermap.org/data/2.5/weather?q=Jakarta&units=imperial&Mode=html&appid=4dd65eff253bb6900bd38290b5dc30b9)).
+A simple React app to display weather information using the [OpenWeather API](https://api.openweathermap.org/data/2.5/weather?q=Jakarta&units=imperial&Mode=html&appid=4dd65eff253bb6900bd38290b5dc30b9).
 
 ## 🚀 Features
 - Fetch current weather data using **Axios**
